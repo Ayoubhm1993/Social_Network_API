@@ -1,4 +1,3 @@
-## Social Network API
 
 ## Team-profile-generator
  
